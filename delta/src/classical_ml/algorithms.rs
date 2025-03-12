@@ -663,6 +663,7 @@ where
 }
 
 #[cfg(test)]
+mod tests {
     use ndarray::{Array1, Array2};
     use num_traits::Float;
 
